@@ -37,17 +37,10 @@ I am a wordpress developer and a web designer. Currently, I am a lead website ma
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-
 
 [website]: https://insightgro.com
 [twitter]: https://twitter.com/InsightGro
 [youtube]: https://youtube.com/InsightGro
 [instagram]: https://instagram.com/insight_gro
-[linkedin]: https://linkedin.com/in/insightgro
+[linkedin]: https://linkedin.com/in/insight-gro
 
