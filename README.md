@@ -30,10 +30,9 @@ I am a wordpress developer and a web designer. Currently, I am a lead website ma
 
 <!-- YOUTUBE:START -->
 - [Samsung Galaxy S9 Review in 2020 ! -](https://www.youtube.com/watch?v=9XrYNHmFU-g&t=8s)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
+- [iPhone 7 in 2020 - Quick Review](https://www.youtube.com/watch?v=xcsq9_hVoUg&t=5s)
+- [AMD Ryzen 3 3200G - Review & Game Test)](https://www.youtube.com/watch?v=LGYyTF_P3ic&t=2s)
+- [Minimal Productivity // Desk Setup Tour 2021 !](https://www.youtube.com/watch?v=sm0Mb7qHEmI)
 <!-- YOUTUBE:END -->
 
 
