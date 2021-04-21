@@ -1,14 +1,8 @@
 ### Hi there 👋
 I am a wordpress developer and a web designer. Currently, I am a lead website manager at insight gro.
+[insightgro][website] 👋
 
-### What I've Worked On
-At Insight  Gro,I helped the team who builds:
-
-### 📫 How to reach me: ...
-
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=insightgro.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://insightgro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
