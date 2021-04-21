@@ -1,9 +1,17 @@
 ### Hi there 👋
+I am a wordpress developer and web designer. Currently, I am a lead website manager at insight gro.
 
+- 🔭 What I've Worked On
+At Insight  Gro,I helped the team who builds:
+
+Ninja Forms
+Caldera Forms
+View Source
+SendWP
+- 
 <!--
 **Flexus-dev/Flexus-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
