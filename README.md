@@ -6,7 +6,7 @@ I am a wordpress developer and a web designer. Currently, I am a lead website ma
 [![Twitter Follow](https://img.shields.io/twitter/follow/InsightGro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FInsightGro&screen_name=InsightGro)
 
 
-- 🔭 Currently working on Wordpress Development: 
+- 🔭 Currently working on Web Development: 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to edit films and play GTA/Valorant.
