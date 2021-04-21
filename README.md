@@ -40,7 +40,7 @@ I am a wordpress developer and a web designer. Currently, I am a lead website ma
 
 [website]: https://insightgro.com
 [twitter]: https://twitter.com/InsightGro
-[youtube]: https://youtube.com/InsightGro
+[youtube]: https://youtube.com/RahulDng
 [instagram]: https://instagram.com/insight_gro
-[linkedin]: https://linkedin.com/in/insight-gro
+[linkedin]: https://www.linkedin.com/company/insight-gro/mycompany/?viewAsMember=true
 
