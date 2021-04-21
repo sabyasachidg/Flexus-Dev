@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a wordpress developer and web designer. Currently, I am a lead website manager at insight gro.
 
-🔭 What I've Worked On
+### What I've Worked On
 At Insight  Gro,I helped the team who builds:
 
 
