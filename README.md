@@ -7,8 +7,7 @@ I am a wordpress developer and a web designer. Currently, I am a lead website ma
 
 
 - 🔭 Currently working on Web Development: 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects on Web Dev
 - ⚡ Fun fact: I love to edit films and play GTA/Valorant.
 
 ### Spotify Playing 🎧
