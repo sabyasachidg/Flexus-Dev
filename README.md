@@ -1,8 +1,7 @@
 ### Hi there 👋
-I am a wordpress developer and a web designer. Currently, I am a lead website manager at
-[insightgro][website] 👋
+Wordpress Developer with intermediate knowledge of web development with design & hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance. 👋
 
-[![Website](https://img.shields.io/website?label=insightgro.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://insightgro.com)
+[![Website](https://img.shields.io/website?label=klubcart.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://klubcart.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/InsightGro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FInsightGro&screen_name=InsightGro)
 
 
