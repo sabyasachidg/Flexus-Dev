@@ -1,5 +1,5 @@
 ### Hi there 👋
-Wordpress Developer with intermediate knowledge of web development with design & hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance. 👋
+Nowadays I work mostly with AWS L:ightsail, WooCommerce, Wordpress, SEO, PHP and ReactJS with design & hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance. 👋
 
 
 
