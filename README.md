@@ -3,9 +3,13 @@ Wordpress Developer with intermediate knowledge of web development with design &
 
 
 
-- 🔭 Currently working on Web Development: 
-- 🥅 2021 Goals: Contribute more to Open Source projects on Web Dev
-- ⚡ Fun fact: I love to edit films and play GTA/Valorant.
+🔭 Currently working on Web Development using CMS: 
+🥅 2022 Goals: Contribute more to Open Source projects on Web Development
+⚡ Fun fact: I love to edit films and play GTA/Valorant.
+💻 Aim to master MERN Stack Development
+☁️ Cloud Technologies used: AWS Lightsail, Google Cloud
+👀 I help people to make passive income through Adsense Automation
+📱 Actively maintaining thinkwebb automation website and insight gro (Job Board)
 
 
 ### Connect with me:
