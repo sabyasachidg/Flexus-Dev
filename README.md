@@ -36,5 +36,5 @@ Wordpress Developer with intermediate knowledge of web development with design &
 
 [twitter]: https://twitter.com/dg_sabyasachi
 [instagram]: [https://instagram.com/insight_gro](https://www.instagram.com/_sabyasachidg_/)
-[linkedin]: [https://www.linkedin.com/company/insight-gro/mycompany/?viewAsMember=true](https://www.linkedin.com/in/sabyasachi-dasgupta-569a9a189/)
+[linkedin]: https://www.linkedin.com/in/sabyasachi-dasgupta-569a9a189/
 
